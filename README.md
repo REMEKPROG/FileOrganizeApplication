@@ -28,7 +28,7 @@ run it directly.
 1.  Clone the repository:
 
     ``` bash
-    git clone <your-repo-link>
+    git clone https://github.com/REMEKPROG/FileOrganizeApplication/tree/main?tab=readme-ov-file
     ```
 
 2.  Install Python 3.
