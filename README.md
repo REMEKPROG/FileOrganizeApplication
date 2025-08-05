@@ -20,7 +20,7 @@ files into subfolders based on their extensions. It features a simple
 
 ### Option 1: Using the `.exe` (no Python required)
 
-Download the ready-to-use executable from the **Releases** section and
+Download the ready-to-use executable from the **python-organize/dist** section and
 run it directly.
 
 ### Option 2: Running the Python script
